@@ -1,4 +1,3 @@
-
 #SingleInstance force
 #include <AutoHotInterception>
 #Include <TapHOldManager>
