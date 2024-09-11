@@ -14,6 +14,7 @@ ITH1.SetState(0)
 ctrlHeld := 0
 return
 
+; Here I wish  to make pressing: ctrl + (Button 1 from my mouse ) execute another function or something else - Please if you could help ( Thanks )
 
 LCtrl::
    if (ctrlHeld)
